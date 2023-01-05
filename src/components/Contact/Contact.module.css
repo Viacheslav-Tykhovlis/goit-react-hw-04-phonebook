@@ -1,0 +1,24 @@
+.contactItem {
+  margin-bottom: 15px;
+}
+
+.name {
+  display: inline;
+  margin-right: 15px;
+  text-decoration: underline;
+}
+
+.number {
+  padding: 4px;
+  margin-right: 15px;
+  border-radius: 10px;
+  box-shadow: 0 0 3px grey;
+}
+
+.btnDelete {
+  padding: 5px;
+  background-color: #fff;
+  border: 1px solid grey;
+  border-radius: 10px;
+  cursor: pointer;
+}
